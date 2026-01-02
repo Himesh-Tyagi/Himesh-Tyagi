@@ -12,9 +12,6 @@ Hi 👋, I’m Himesh Tyagi  <br><br>📊 Data Analyst | Machine Learning Enthus
 ![](https://nirzak-streak-stats.vercel.app/?user=Himesh-Tyagi&theme=gruvbox_light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-Tyagi&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Himesh-Tyagi&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
